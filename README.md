@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @yanisepfl
-- 👀 I’m particularly interested in cyber security, blockchain, decentralized finance...
-- 🌱 I’m currently learning cyber security at ETHZ.
-- 💞️ I’m looking to collaborate on many many many projects.
+- 👋 Hi, I’m Yanis Berkani (@yanisepfl)
+- 👀 I’m particularly interested in cyber security, blockchain & decentralized finance
+- 🎓 I’m finishing my master's degree in cyber security at ETHZ.
+- 🍷 Currently working at APWine (DeFi)
+- 🤝 I’m looking to collaborate on many many many projects.
 - 📫 How to reach me : @yanisbrk on instagram, yanis.berkani@epfl.ch or yberkani@student.ethz.ch
 
 <!---
